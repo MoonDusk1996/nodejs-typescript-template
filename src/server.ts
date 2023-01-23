@@ -7,4 +7,4 @@ function getUser(user: iUser) {
   console.log(user);
 }
 
-getUser({ name: "Pedro", age: 25 });
+getUser({ name: "Dusk", age: 25 });
